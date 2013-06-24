@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "egjfkorigin"]
+	url = git@10.250.10.61:myrepo.git
+	fetch = +refs/heads/*:refs/remotes/egjfkorigin/*
